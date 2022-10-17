@@ -20,3 +20,7 @@ We have decided to manage this problem using CP (with MiniZinc) and SMT (with th
   <img src="https://github.com/lolloloschi97/Very-Large-Scale-Integration/blob/main/image2.jpg" width=30% height=30% class="center">
 </p>
 <br/>
+
+### Contribution
+- [Lorenzo Loschi](https://github.com/lolloloschi97)
+- [Irene Rachele Lavopa](https://github.com/irenelavopa)
